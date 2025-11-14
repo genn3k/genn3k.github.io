@@ -1,6 +1,6 @@
 /* Portfolio styles */
 body {
-    background: rgb(24, 209, 225);
+    background: rgb(217, 16, 190);
     color: rgb(45, 45, 45);
     padding: 10px;
     font-family: Arial, sans-serif;
@@ -13,7 +13,7 @@ body {
 
 /* navigation menu */
 nav {
-    background: rgb(239, 80, 41);
+    background: rgb(247, 4, 69);
     margin: 0 auto;
     display: flex;
     padding: 10px;
@@ -22,7 +22,7 @@ nav {
 h1 {
     display: flex;
     align-items: center;
-    color: white;
+    color: rgb(168, 23, 156);
     flex: 1;
     margin: 0;
 }
